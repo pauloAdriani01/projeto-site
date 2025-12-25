@@ -17,3 +17,9 @@ main {
     box-shadow: 5px 5px 5px black;
 
 }
+
+img.lado {
+    float: right;
+    padding: 10px;
+
+}
